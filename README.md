@@ -8,3 +8,4 @@ adding some more senseless info.
 
 - trying another section -
 ![headshot](moonlight kayakingjpg.jpg)
+![headshot](moonlight kayakingjpg.jpg)
